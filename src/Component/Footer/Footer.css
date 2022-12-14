@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    height: 350px;
+}
+
+.subcontainer {
+    width: 100%;
+    height: 350px;
+}
+
+.coloum {
+    border: 2px solid black;
+    display: inline-block;
+    width: 32%;
+    height: 300px;
+    margin: 2px
+}
